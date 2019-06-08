@@ -70,7 +70,7 @@ public class MultiDimensional
                  std = Math.sqrt(std);
 
    return std;      
-	}   
+   }   
    //printing
    public static void main(String []args)
    {
